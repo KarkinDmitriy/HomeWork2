@@ -51,5 +51,5 @@ public class HomeWork2 {
             System.out.println(s);
         }
     }
-    
+
 }
